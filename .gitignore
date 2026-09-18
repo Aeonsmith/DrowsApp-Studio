@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Model assets (auto-downloaded at runtime)
+*.task
+
+# IDEs & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
